@@ -3,8 +3,6 @@
 **Modular, scalable, and production-ready web crawler and data curation pipeline.**  
 Part of the Eca-Curator mega data curation project.
 
-[![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo/rahulkhichar7/eca-curator Overview
-
 **Eca-Curator Web Crawler** is a robust, multi-process web crawling and data curation pipeline. Designed for scalability and maintainability, it supports domain-aware crawling, WARC archiving, robots.txt compliance, and clean separation of concerns. This repository is a core component of the larger Eca-Curator data curation ecosystem.
 
 ---
@@ -158,3 +156,5 @@ Please file issues or feature requests via [GitHub Issues](https://github.com/ra
 ---
 
 *Happy crawling!* 🕸️
+
+**Note** - This is only phase 1 code, full pipeline code is not updated yet.
