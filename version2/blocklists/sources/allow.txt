@@ -1,0 +1,15 @@
+# Never blocked, whatever the lists say. One domain per line; a domain also allows
+# all its sub-domains, so "gov.in" protects every *.gov.in site.
+# (The public lists put archive.org/gutenberg in "torrent", universities in "dating", ...)
+gov.in
+nic.in
+ac.in
+edu.in
+res.in
+ernet.in
+mil.in
+archive.org
+gutenberg.org
+wikipedia.org
+wikimedia.org
+wikisource.org

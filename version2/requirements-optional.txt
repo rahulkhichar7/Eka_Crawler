@@ -1,0 +1,5 @@
+# text + dataset pipelines
+trafilatura>=1.6      # better HTML -> text (without it a simple lxml fallback is used)
+pyarrow>=14           # parquet output (without it: jsonl) and required by 'dataset combine'
+# proxies
+requests[socks]       # only for socks5:// proxies

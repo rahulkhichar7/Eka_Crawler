@@ -1,0 +1,52 @@
+{
+  "adult": {
+    "strict": ["xvideos", "groupsex", "xnxx", "hardcore", "redtube", "hclips", "youporn", "pornhub", "spankbang", "brazzers", "bangbros"],
+    "hard": ["porn", "xxx", "orgy", "anal", "cumshot", "milf", "blowjob", "fetish", "bdsm", "nude", "strip"],
+    "soft": ["sex", "escort", "webcam", "camgirl", "dating18", "kissing", "flirt"]
+  },
+  "phishing": {
+    "strict": ["paypal-secure", "login-verification", "bank-confirm", "secure-update", "account-check", "security-alert"],
+    "hard": ["phishing", "scam", "fake-login", "account-verify", "credit-theft"],
+    "soft": ["verify", "confirm", "signin-secure"]
+  },
+  "dating": {
+    "strict": ["adultfriendfinder", "tinderplus", "ashleymadison", "onlyflings"],
+    "hard": ["tinder", "bumble", "grindr", "match", "okcupid"],
+    "soft": ["date", "meet", "flirt", "hookup"]
+  },
+  "gambling": {
+    "strict": ["bet365", "pokerstars", "888casino", "stake", "leovegas"],
+    "hard": ["casino", "poker", "betting", "sportsbet"],
+    "soft": ["slots", "gamble", "jackpot"]
+  },
+  "filehosting": {
+    "strict": ["zippyshare", "mega.nz", "mediafire", "uploaded.net"],
+    "hard": ["fileshare", "upload", "drive-download"],
+    "soft": ["freefile", "hostfile", "fastupload"]
+  },
+  "ddos": {
+    "strict": ["booter", "stresser", "ddos-for-hire", "ip-stresser"],
+    "hard": ["ddos", "dos", "flood"],
+    "soft": ["lagtool", "overload", "packetbomb"]
+  },
+  "agressif": {
+    "strict": ["killyou", "whitegenocide", "racewar"],
+    "hard": ["racist", "nazi", "hatred", "terrorist"],
+    "soft": ["hate", "violence", "kill"]
+  },
+  "chat": {
+    "strict": ["chatroulette", "omegle"],
+    "hard": ["chatroom", "anonychat"],
+    "soft": ["talk", "chat"]
+  },
+  "mixed_adult": {
+    "strict": ["reddit.com/r/nsfw", "tumblr.com/tagged/nsfw"],
+    "hard": ["blogspot-adult", "imgur-nsfw"],
+    "soft": ["partial-nude", "semi-erotic"]
+  },
+  "arjel": {
+    "strict": ["fr.parionssport", "fr.pmu", "fr.unibet", "fr.betclic"],
+    "hard": ["arjel"],
+    "soft": ["jeux-argent", "paris-sportifs"]
+  }
+}
