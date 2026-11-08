@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+env/
+warc/
+warc_files/
+files/
+output/
+
+.venv
+.env
+*.log
+output/

@@ -1,7 +1,0 @@
-requests
-multiprocessing
-urllib
-lxml
-warcio
-protego
-signal
